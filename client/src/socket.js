@@ -1,5 +1,5 @@
 import { io } from "socket.io-client";
 
-const socket = io("https://peershare-0fn3.onrender.com:3000");
+const socket = io("https://peer-share-mu.vercel.app/");
 
 export default socket;
